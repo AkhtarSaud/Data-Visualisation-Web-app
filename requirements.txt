@@ -3,4 +3,3 @@ fbprophet
 seaborn
 pandas
 numpy 
-base64
